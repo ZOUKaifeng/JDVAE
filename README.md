@@ -38,5 +38,8 @@ python test.py
 
 
 ### 5. Results
+#### Comparison
 ![Comparison](results/comp_exp.png)
+
+#### Multilabel manipulation
 ![Multilabel manipulation](results/multi_exp.png)

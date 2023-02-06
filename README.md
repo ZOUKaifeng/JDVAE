@@ -21,4 +21,21 @@ If you find this code useful in your research, please cite:
 This code is test on Python3.7.11 and pytorch1.9+cu111. 
 
 ### 2. Download the datasets
-We use CelebA faces attributes dataset, you can download it from [**Kaggle**](https://www.kaggle.com/datasets/jessicali9530/celeba-dataset)
+We use CelebA faces attributes dataset, you can download it from [**Kaggle**](https://www.kaggle.com/datasets/jessicali9530/celeba-dataset) and then move them to 'data/'.
+
+
+### 3. Training
+
+```bash
+python main_vae.py
+```
+
+### 4. Testing
+Note that the code need to train a classifier to calculate the successful rate of attribute swapping. 
+```bash
+python test.py
+```
+
+
+### 5. Results
+![Examples](reults/bigteaser_white.png#gh-light-mode-only)![teaser_dark](visuals/bigteaser_white_neg.png#gh-dark-mode-only)

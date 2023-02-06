@@ -39,7 +39,7 @@ python test.py
 
 ### 5. Results
 #### Comparison
-![Comparison](results/comp_exp.png =250x250)
+![Comparison](results/comp_exp.png )
 
 #### Multi-label manipulation
-![Multilabel manipulation](results/multi_exp.png =250x250)
+![Multilabel manipulation](results/multi_exp.png )

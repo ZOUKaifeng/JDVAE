@@ -10,7 +10,7 @@ from torchvision import transforms
 import torch.nn.functional as F
 import itertools
 #from layers import 
-from attr_vq import semiVAE
+from model import semiVAE
 from tqdm import tqdm
 
 import argparse

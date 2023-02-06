@@ -1,6 +1,6 @@
 # JDVAE 
 
-Official Pytorch implementation of the paper [**JOINT DISENTANGLEMENT OF LABELS AND THEIR FEATURES WITH VAE (ICIP 2022)**](https://hal.science/hal-03780425/file/ICIP2022.pdf)
+Pytorch implementation of the paper [**JOINT DISENTANGLEMENT OF LABELS AND THEIR FEATURES WITH VAE (ICIP 2022)**](https://hal.science/hal-03780425/file/ICIP2022.pdf)
 
 
 #### Bibtex

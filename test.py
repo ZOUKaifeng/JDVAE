@@ -248,12 +248,12 @@ def main(args):
     n = 0
     nRowsRead = 202599 # specify 'None' if want to read whole file
     # list_attr_celeba.csv has 202599 rows in reality, but we are only loading/previewing the first 1000 rows
-    df1 = pd.read_csv('../GAN/data/list_attr_celeba.csv', delimiter=',', nrows = nRowsRead)
+    df1 = pd.read_csv('./data/list_attr_celeba.csv', delimiter=',', nrows = nRowsRead)
     df1.dataframeName = 'list_attr_celeba.csv'
     nRow, nCol = df1.shape
     print(f'There are {nRow} rows and {nCol} columns')
 
-    path = "../GAN/data/align_5p/"
+    path = "./data/align_5p/"
 
     image_id = df1["image_id"]
     label = df1["Eyeglasses"]

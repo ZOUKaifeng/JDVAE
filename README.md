@@ -38,4 +38,5 @@ python test.py
 
 
 ### 5. Results
-![Examples](reults/bigteaser_white.png#gh-light-mode-only)![teaser_dark](visuals/bigteaser_white_neg.png#gh-dark-mode-only)
+![Comparison](results/comp_exp.png)
+![Multilabel manipulation](results/multi_exp.png)

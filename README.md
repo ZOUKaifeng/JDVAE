@@ -40,7 +40,8 @@ python test.py
 ### 5. Results
 #### Comparison
 
-<img src='results/comp_exp.png' width='256'>
+<img src='results/comp_exp.png' width='512'>
+
 #### Multi-label manipulation
-<img src='results/multi_exp.png' width='256'>
+<img src='results/multi_exp.png' width='512'>
 
